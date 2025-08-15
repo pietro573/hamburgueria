@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(26, 4, 107);
+  }
+ h1 { 
+    color: chartreuse;
+ }
+ h2 {
+    color: chartreuse;
+ }
+    h3 {
+        color:aliceblue;
+    }
+    h4 {
+        color:aliceblue;
+     }
+ .produto{
+    top: 50%;
+    left: 30%;
+    position: absolute;
+ }
+ 
